@@ -19,7 +19,7 @@ Across all my projects, I'm comfortable working at multiple abstraction layers f
 ---
 ### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lawrencedegoma/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-red)](https://github.com/lawrenceDegoma/resume/blob/main/Lawrence_Degoma_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red)](https://github.com/lawrenceDegoma/resume/blob/main/LawrenceDegoma.pdf)
 <!--
 **lawrenceDegoma/lawrenceDegoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
