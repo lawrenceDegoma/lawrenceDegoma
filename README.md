@@ -8,7 +8,8 @@ I build software across the entire stack from low level systems in C++ to full s
 
 I'm especially interested in projects that take ideas traditionally seen as *science fiction*, i.e. heads-up displays, gesture driven interfaces, ambient computing, and pull them into **practical, working reality**.
 
-To me, programming isn't just about writing code, but *expanding what software can be*.
+**To me, programming isn't just about writing code, but *expanding what software can be***.
+
 ---
 ### What I Build
 - **Human-Computer Interaction systems** - I explore ways humans interact with machines through **gesture recognition, computer vision, and voice input**
