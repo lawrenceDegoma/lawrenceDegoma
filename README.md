@@ -1,4 +1,14 @@
-# Hey, I'm Lawrence 👋
+```cpp
+class LawrenceDegoma{
+public:
+  LawrenceDegoma(){
+    curiosity = HIGH;
+    iterationSpeed = FAST;
+  }
+  std::string role = "Computer Science Student @ CSULB";
+  std::string focus = "Human-Machine Interface & Real-Time Systems";
+}
+```
 
 I'm a graduating Computer Science student from California State University, Long Beach set for Fall 2026. I work on projects that deal with human-machine interface systems and full-stack applications. I am a builder who is obsessed with pushing technology past conventional interfaces.
 
