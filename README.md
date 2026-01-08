@@ -28,8 +28,21 @@ I'm especially interested in projects that take ideas traditionally seen as *sci
 Across all my projects, I'm comfortable working at multiple abstraction layers from low level system behavior to high level architectural design with the goal of building software that feels **ahead of its time, but grounded in reality**/
 ---
 ### Let's Connect!
+<p>
+  <a href="https://linkedin.com/in/lawrencedegoma" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" />
+  </a>
+  <a href="https://github.com/lawrenceDegoma/resume/blob/main/LawrenceDegoma.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-red?style=flat" />
+  </a>
+</p>
+
+
+<!-- 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lawrencedegoma/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-red)](https://github.com/lawrenceDegoma/resume/blob/main/LawrenceDegoma.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red)](https://github.com/lawrenceDegoma/resume/blob/main/LawrenceDegoma.pdf) 
+-->
+
 <!--
 **lawrenceDegoma/lawrenceDegoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
