@@ -33,7 +33,7 @@ Across all my projects, I'm comfortable working at multiple abstraction layers f
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" />
   </a>
   <a href="https://github.com/lawrenceDegoma/resume/blob/main/LawrenceDegoma.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF-red?style=flat" />
+    <img src="https://img.shields.io/badge/Resume-PDF-red?style=flat" alt="Resume PDF"/>
   </a>
 </p>
 
