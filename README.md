@@ -13,7 +13,7 @@ public:
 I'm a graduating Computer Science student from California State University, Long Beach set for Fall 2026. I work on projects that deal with human-machine interface systems and full-stack applications. I am a builder who is obsessed with pushing technology past conventional interfaces.
 
 ---
-### Who I Am
+### About Me
 I build software across the entire stack from low level systems in C++ to full scale platforms with complex architectures, but my real passion lies in rethinking how humans interact with technology.
 
 I'm especially interested in projects that take ideas traditionally seen as *science fiction*, i.e. heads-up displays, gesture driven interfaces, ambient computing, and pull them into **practical, working reality**.
