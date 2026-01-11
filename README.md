@@ -10,7 +10,7 @@ public:
 }
 ```
 
-I'm a graduating Computer Science student from California State University, Long Beach set for Fall 2026. I work on projects that deal with human-machine interface systems and full-stack applications. I am a builder who is obsessed with pushing technology past conventional interfaces.
+I'm a graduating Computer Science student from California State University, Long Beach set for Fall 2026. I work on projects that deal with human-machine interface systems and full-stack applications. I am a builder obsessed with pushing technology past conventional interfaces.
 
 ---
 ### About Me
